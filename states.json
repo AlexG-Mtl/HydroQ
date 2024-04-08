@@ -521,10 +521,10 @@
   "rappelClient": [
     {
       "_comment": "PLANIFIÉE - Rappel client non disponible",
-      "from": "2024-03-23 21:00:00",
-      "to": "2024-03-24 00:30:00",
-      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du samedi 23&nbsp;mars&nbsp;2024 à 21&nbsp;h&nbsp;00 au dimanche 24&nbsp;mars&nbsp;2024 à 00&nbsp;h&nbsp;30.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, this customized online service will be unavailable from Saturday, March&nbsp;23,&nbsp;2024, from 9&nbsp;p.m. to Sunday, March&nbsp;24, at 0:30&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-04-08 21:00:00",
+      "to": "2024-04-09 02:00:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du lundi 8&nbsp;avril&nbsp;2024 à 21&nbsp;h&nbsp;00 au mardi 9&nbsp;avril&nbsp;2024 à 2&nbsp;h&nbsp;00.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, this customized online service will be unavailable from Monday, April&nbsp;8,&nbsp;2024, from 9&nbsp;p.m. to Tuesday, April&nbsp;9, at 2:00&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - Rappel Client non disponible",
