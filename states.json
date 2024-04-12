@@ -53,17 +53,24 @@
     },
     {
       "_comment": "PLANIFIÉE - Espace Client non disponible - redémarrage SAP",
-      "from": "2024-04-07 05:00:00",
-      "to": "2024-04-07 06:30:00",
-      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, l’Espace client n’est pas accessible le dimanche 7&nbsp;avril&nbsp;2024, de 5&nbsp;h à 6&nbsp;h&nbsp;30.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the Customer Space is unavailable on Sunday, April&nbsp;7,&nbsp;2024, from 5&nbsp;a.m. to 6:30&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your comprehension.</p>"
+      "from": "2024-04-14 05:00:00",
+      "to": "2024-04-14 06:30:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, l’Espace client n’est pas accessible le dimanche 14&nbsp;avril&nbsp;2024, de 5&nbsp;h à 6&nbsp;h&nbsp;30.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the Customer Space is unavailable on Sunday, April&nbsp;14,&nbsp;2024, from 5&nbsp;a.m. to 6:30&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your comprehension.</p>"
     },
     {
       "_comment": "PLANIFIÉE - Espace Client non disponible - Implantation",
-      "from": "2024-02-17 21:30:00",
-      "to": "0000-01-01 01:00:00",
-      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, l’Espace client ne sera pas accessible du samedi 17&nbsp;février&nbsp;2024 à 21&nbsp;h&nbsp;30 au dimanche 18&nbsp;février&nbsp;2024 à 2&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the Customer Space will be unavailable from Saturday, February&nbsp;17,&nbsp;2024, at 9:30&nbsp;p.m. to Sunday, February&nbsp;18, at 2&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-04-12 21:30:00",
+      "to": "2024-04-13 01:00:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, l’Espace client ne sera pas accessible du vendredi 12&nbsp;avril&nbsp;2024 à 21&nbsp;h&nbsp;30 au samedi 13&nbsp;avril&nbsp;2024 à 1&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the Customer Space will be unavailable from Friday, April&nbsp;12,&nbsp;2024, at 9:30&nbsp;p.m. to Saturday, April&nbsp;13, at 1&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+    },
+    {
+      "_comment": "PLANIFIÉE - Espace Client non disponible - Implantation",
+      "from": "2024-04-13 21:00:00",
+      "to": "2024-04-14 01:00:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, l’Espace client ne sera pas accessible du samedi 13&nbsp;avril&nbsp;2024 à 21&nbsp;h au dimanche 14&nbsp;avril&nbsp;2024 à 1&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the Customer Space will be unavailable from Saturday, April&nbsp;13,&nbsp;2024, at 9&nbsp;p.m. to Sunday, April&nbsp;14, at 1&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - Espace Client non disponible - travaux - sans heures",
@@ -120,10 +127,10 @@
   "appMobileAuthentifiee": [
     {
       "_comment": "PLANIFIÉE - Application en mode authentifié non disponible Rédemarrage SAP (donc possible d’accéder à Info-pannes sans authentification). Changer  le [jour] [date], de [heure de début] à [heure de fin]. ",
-      "from": "2024-04-07 05:00:00",
-      "to": "2024-04-07 06:30:00",
-      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, les services de l’application mobile nécessitant une connexion à votre compte client ne seront pas accessibles le dimanche 7&nbsp;avril&nbsp;2024, de 5&nbsp;h à 6&nbsp;h&nbsp;30.</p><p>Vous pouvez toutefois accéder aux services en ligne d’Info-pannes et signaler une panne en mode hors connexion.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to maintenance work, the mobile app services that require logging in to your customer account will be unavailable on Sunday, April&nbsp;7,&nbsp;2024, from 5&nbsp;a.m. to 6:30&nbsp;a.m.</p><p>You can still access the online power outage information services and report an outage in offline mode.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-04-14 05:00:00",
+      "to": "2024-04-14 06:30:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, les services de l’application mobile nécessitant une connexion à votre compte client ne seront pas accessibles le dimanche 14&nbsp;avril&nbsp;2024, de 5&nbsp;h à 6&nbsp;h&nbsp;30.</p><p>Vous pouvez toutefois accéder aux services en ligne d’Info-pannes et signaler une panne en mode hors connexion.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to maintenance work, the mobile app services that require logging in to your customer account will be unavailable on Sunday, April&nbsp;14,&nbsp;2024, from 5&nbsp;a.m. to 6:30&nbsp;a.m.</p><p>You can still access the online power outage information services and report an outage in offline mode.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "PLANIFIÉE - Application en mode authentifié non disponible - Implantation",
@@ -131,6 +138,20 @@
       "to": "2024-02-15 23:30:00",
       "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, les services de l’application mobile nécessitant une connexion à votre compte client ne seront pas accessibles le jeudi 15&nbsp;février&nbsp;2024 de 21&nbsp;h à 23&nbsp;h&nbsp;30.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
       "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the mobile app services that require logging in to your customer account will be unavailable Thursday&nbsp;15,&nbsp;2024, from 9:00&nbsp;p.m. to 11&nbsp;30&nbsp;p.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+    },
+    {
+      "_comment": "PLANIFIÉE - Application en mode authentifié non disponible - Implantation",
+      "from": "2024-04-12 21:30:00",
+      "to": "2024-04-13 01:00:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, les services de l’application mobile nécessitant une connexion à votre compte client ne seront pas accessibles du vendredi 12&nbsp;avril&nbsp;2024 à 21&nbsp;h&nbsp;30 au samedi 13&nbsp;avril&nbsp;2024 à 1&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the mobile app services that require logging in to your customer account will be unavailable from Friday, April&nbsp;12,&nbsp;2024, at 9:30&nbsp;p.m. to Saturday, April&nbsp;13, at 1&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+    },
+    {
+      "_comment": "PLANIFIÉE - Application en mode authentifié non disponible - Implantation",
+      "from": "2024-04-13 21:00:00",
+      "to": "2024-04-14 01:00:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, les services de l’application mobile nécessitant une connexion à votre compte client ne seront pas accessibles du samedi 13&nbsp;avril&nbsp;2024 à 21&nbsp;h au dimanche 14&nbsp;avril&nbsp;2024 à 1&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the mobile app services that require logging in to your customer account will be unavailable from Saturday, April&nbsp;13,&nbsp;2024, at 9&nbsp;p.m. to Sunday, April&nbsp;14, at 1&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON-PLANIFIÉE - Application en mode authentifié non disponible",
@@ -226,17 +247,24 @@
   "infoPannesSignaler": [
     {
       "_comment": "PLANIFIÉE - Services en ligne non disponibles - Rédémarrage SAP, on active sur un période plus longue pour éviter que l'indispo soit retirée automatiquement durant la mep.",
-      "from": "2024-04-07 05:00:00",
-      "to": "2024-04-07 06:30:00",
-      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible le dimanche 7&nbsp;avril&nbsp;2024, de 5&nbsp;h à 6&nbsp;h&nbsp;30.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to maintenance work, this customized online service will be unavailable on Sunday, April&nbsp;7,&nbsp;2024, from 5&nbsp;a.m. to 6:30&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-04-14 05:00:00",
+      "to": "2024-04-14 06:30:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible le dimanche 14&nbsp;avril&nbsp;2024, de 5&nbsp;h à 6&nbsp;h&nbsp;30.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to maintenance work, this customized online service will be unavailable on Sunday, April&nbsp;14,&nbsp;2024, from 5&nbsp;a.m. to 6:30&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "PLANIFIÉE - Services en ligne non disponibles - Implantation",
-      "from": "2024-02-17 21:30:00",
-      "to": "0000-01-01 01:00:00",
-      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du samedi 17&nbsp;février&nbsp;2024 à 21&nbsp;h&nbsp;30 au dimanche 18&nbsp;février&nbsp;2024 à 2&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, this customized online service will be unavailable from Saturday, February&nbsp;17,&nbsp;2024, at 9:30&nbsp;p.m. to Sunday, February&nbsp;18, at 2&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-04-12 21:30:00",
+      "to": "2024-04-13 01:00:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du vendredi 12&nbsp;avril&nbsp;2024 à 21&nbsp;h&nbsp;30 au samedi 13&nbsp;avril&nbsp;2024 à 1&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, this customized online service will be unavailable from Friday, April&nbsp;12,&nbsp;2024, at 9:30&nbsp;p.m. to Saturday, April&nbsp;13, at 1&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+    },
+    {
+      "_comment": "PLANIFIÉE - Services en ligne non disponibles - Implantation",
+      "from": "2024-04-13 21:00:00",
+      "to": "2024-04-14 01:00:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du samedi 13&nbsp;avril&nbsp;2024 à 21&nbsp;h au dimanche 14&nbsp;avril&nbsp;2024 à 1&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, this customized online service will be unavailable from Saturday, April&nbsp;13,&nbsp;2024, at 9&nbsp;p.m. to Sunday, April&nbsp;14, at 1&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - Services en ligne non disponibles",
