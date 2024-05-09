@@ -98,7 +98,7 @@
     {
       "_comment": "PLANIFIÉE - Application mobile complète non disponible, on active sur un période plus longue pour éviter que l'indispo soit retirée automatiquement durant la mep.",
       "from": "2024-05-08 21:00:00",
-      "to": "2024-05-09 01:30:00",
+      "to": "0000-05-09 01:30:00",
       "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, l’application mobile ne sera pas accessible du mercredi 8&nbsp;mai&nbsp;2024 à 21&nbsp;h au jeudi 9&nbsp;mai&nbsp;2024 à 1&nbsp;h&nbsp;30.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
       "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to maintenance work, the mobile app will be unavailable from Wednesday, May&nbsp;8,&nbsp;2024, at 9:00&nbsp;p.m. to Thursday, May&nbsp;9,&nbsp;2024, at 1:30&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
