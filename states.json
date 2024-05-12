@@ -61,7 +61,7 @@
     {
       "_comment": "PLANIFIÉE - Espace Client non disponible - Implantation",
       "from": "2024-05-11 18:30:00",
-      "to": "2024-05-12 14:00:00",
+      "to": "2024-05-12 13:30:00",
       "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, l’Espace client ne sera pas accessible du samedi 11&nbsp;mai&nbsp;2024 à 18&nbsp;h&nbsp;30 au dimanche 12&nbsp;mai&nbsp;2024 à 14&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
       "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the Customer Space will be unavailable from Saturday, May&nbsp;11,&nbsp;2024, at 6:30&nbsp;p.m. to Sunday, May&nbsp;12,&nbsp;2024, at 2&nbsp;p.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
@@ -128,7 +128,7 @@
     {
       "_comment": "PLANIFIÉE - Application en mode authentifié non disponible - Implantation",
       "from": "2024-05-11 18:30:00",
-      "to": "2024-05-12 14:00:00",
+      "to": "2024-05-12 13:30:00",
       "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, les services de l’application mobile nécessitant une connexion à votre compte client ne seront pas accessibles du samedi 11&nbsp;mai&nbsp;2024 à 18&nbsp;h&nbsp;30 au dimanche 12&nbsp;mai&nbsp;2024 à 14&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
       "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the mobile app services that require logging in to your customer account will be unavailable from Saturday, May&nbsp;11,&nbsp;2024, at 6:30&nbsp;p.m. to Sunday, May&nbsp;12,&nbsp;2024, at 2&nbsp;p.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
