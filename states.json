@@ -47,7 +47,7 @@
     {
       "_comment": "NON PLANIFIÉE - Espace Client non disponible - Panne majeur - sans heures",
       "from": "2024-05-27 12:00:00",
-      "to": "9999-12-31 01:00:00",
+      "to": "0001-01-01 01:00:00",
       "messages_fr": "<h2>Notre site Web est temporairement indisponible</h2><p>Nos équipes travaillent fort pour rétablir la situation dans les meilleurs délais.</p><p><b>Nous nous excusons des inconvénients que cette interruption pourrait causer et nous vous remercions de votre compréhension.</b></p>",
       "messages_en": "<h2>Our website is temporarily unavailable</h2><p>Our teams are working hard to fix the situation in a timely manner.</p><p><b>We apologize for any inconvenience this may cause and thank you for our understanding.</b></p>"
     },
@@ -135,7 +135,7 @@
     {
       "_comment": "NON-PLANIFIÉE - Application en mode authentifié non disponible",
       "from": "2024-05-27 12:00:00",
-      "to": "9999-01-01 01:00:00",
+      "to": "0001-01-01 01:00:00",
       "messages_fr": "<h4>Application d'Hydro-Qu&eacute;bec partiellement inaccessible</h4><p>La section Info-pannes demeure toutefois fonctionnelle sur <a href=\"https://pannes.hydroquebec.com/pannes/\">notre site Web</a> et dans l'application.</p><p><strong>Nous nous excusons pour les inconv&eacute;nients que cette interruption pourrait causer et nous vous remercions pour votre&nbsp;compr&eacute;hension.</strong></p>",
       "messages_en": "<h4>Parts of the Hydro-Québec app are unavailable</h4><p>However, the Power outages section of <a href=\"https://pannes.hydroquebec.com/poweroutages/\">our website</a> and application are still up and running.</p><p><strong>We apologize for the inconvenience the interruption may cause and thank you for your&nbsp;understanding.</strong></p>"
     },
@@ -241,7 +241,7 @@
     {
       "_comment": "NON PLANIFIÉE - Services en ligne non disponibles",
       "from": "2024-05-27 11:50:00",
-      "to": "2024-05-27 15:00:00",
+      "to": "0001-01-01 01:00:00",
       "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne n’est pas accessible en ce moment.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
       "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to maintenance work, this online service is currently unavailable.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     }
