@@ -46,8 +46,8 @@
   "libreService": [
     {
       "_comment": "NON PLANIFIÉE - Espace Client non disponible - Panne majeur - sans heures",
-      "from": "2019-10-05 18:00:00",
-      "to": "0000-01-01 01:00:00",
+      "from": "2024-05-27 12:00:00",
+      "to": "9999-12-31 01:00:00",
       "messages_fr": "<h2>Notre site Web est temporairement indisponible</h2><p>Nos équipes travaillent fort pour rétablir la situation dans les meilleurs délais.</p><p><b>Nous nous excusons des inconvénients que cette interruption pourrait causer et nous vous remercions de votre compréhension.</b></p>",
       "messages_en": "<h2>Our website is temporarily unavailable</h2><p>Our teams are working hard to fix the situation in a timely manner.</p><p><b>We apologize for any inconvenience this may cause and thank you for our understanding.</b></p>"
     },
@@ -68,7 +68,7 @@
     {
       "_comment": "NON PLANIFIÉE - Espace Client non disponible - travaux - sans heures",
       "from": "2024-05-27 11:50:00",
-      "to": "2024-05-27 15:00:00",
+      "to": "0000-01-01 01:00:00",
       "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, l’Espace client n’est pas accessible en ce moment.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
       "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, the Customer Space is unavailable.</p><p>We apologize for any inconvenience and thank you for your comprehension.</p>"
     },
@@ -134,7 +134,7 @@
     },
     {
       "_comment": "NON-PLANIFIÉE - Application en mode authentifié non disponible",
-      "from": "2019-10-05 18:00:00",
+      "from": "2024-05-27 12:00:00",
       "to": "9999-01-01 01:00:00",
       "messages_fr": "<h4>Application d'Hydro-Qu&eacute;bec partiellement inaccessible</h4><p>La section Info-pannes demeure toutefois fonctionnelle sur <a href=\"https://pannes.hydroquebec.com/pannes/\">notre site Web</a> et dans l'application.</p><p><strong>Nous nous excusons pour les inconv&eacute;nients que cette interruption pourrait causer et nous vous remercions pour votre&nbsp;compr&eacute;hension.</strong></p>",
       "messages_en": "<h4>Parts of the Hydro-Québec app are unavailable</h4><p>However, the Power outages section of <a href=\"https://pannes.hydroquebec.com/poweroutages/\">our website</a> and application are still up and running.</p><p><strong>We apologize for the inconvenience the interruption may cause and thank you for your&nbsp;understanding.</strong></p>"
@@ -142,7 +142,7 @@
     {
       "_comment": "NON-PLANIFIÉE - Application en mode authentifié non disponible (donc possible d’accéder à Info-pannes sans authentification). Changer  le [jour] [date], de [heure de début] à [heure de fin].",
       "from": "2024-05-27 11:50:00",
-      "to": "20249-05-27 15:00:00",
+      "to": "0000-01-01 15:00:00",
       "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, les services de l’application mobile nécessitant une connexion à votre compte client ne sont pas accessibles en ce moment.</p><p>Vous pouvez toutefois accéder aux services en ligne d’Info-pannes et signaler une panne en mode hors connexion.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
       "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to maintenance work, the mobile app services that require logging in to your customer account are currently unavailable.</p><p>You can still access the online power outage information services and report an outage in offline mode.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
