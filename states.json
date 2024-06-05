@@ -288,10 +288,10 @@
   "accueilConsommation": [
     {
       "_comment": "PLANIFIÉE - Accueil de consommation non disponible",
-      "from": "2023-09-06 20:45:00",
-      "to": "2023-09-07 01:00:00",
-      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, l’outil de performance énergétique ne sera pas accessible du mercredi 6&nbsp;septembre&nbsp;2023 à 20&nbsp;h&nbsp;45 au jeudi 7&nbsp;septembre&nbsp;2023 à 1&nbsp;h&nbsp;00.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, the Energy Performance Indicator will be unavailable from Wednesday, September&nbsp;6,&nbsp;2023, at 8:45&nbsp;p.m. to Thursday, September&nbsp;7,&nbsp;2023, at 1:00&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-06-05 20:30:00",
+      "to": "2024-06-05 22:00:00",
+      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, l’outil de performance énergétique ne sera pas accessible le mercredi 5&nbsp;juin&nbsp;2024 de 20&nbsp;h&nbsp;30 à 22&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, the Energy Performance Indicator will be unavailable on Wednesday, June&nbsp;5,&nbsp;2024, from 8:30&nbsp;p.m. to 22&nbsp;p.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - Accueil de consommation non disponible",
@@ -304,10 +304,10 @@
   "drcv": [
     {
       "_comment": "PLANIFIÉE - DRCV non disponible",
-      "from": "2023-09-06 20:45:00",
-      "to": "2023-09-07 01:00:00",
-      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, l’outil d’analyse de la consommation ne sera pas accessible du mercredi 6&nbsp;septembre&nbsp;2023 à 20&nbsp;h&nbsp;45 au jeudi 7&nbsp;septembre&nbsp;2023 à 1&nbsp;h&nbsp;00.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, the consumption analysis tool will be unavailable from Wednesday, September&nbsp;6,&nbsp;2023, at 8:45&nbsp;p.m. to Thursday, September&nbsp;7,&nbsp;2023, at 1:00&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-06-05 20:30:00",
+      "to": "2024-06-05 22:00:00",
+      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, l’outil d’analyse de la consommation ne sera pas accessible le mercredi 5&nbsp;juin&nbsp;2024 de 20&nbsp;h&nbsp;30 à 22&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, the consumption analysis tool will be unavailable on Wednesday, June&nbsp;5,&nbsp;2024, from 8:30&nbsp;p.m. to 22&nbsp;p.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - DRCV non disponible",
@@ -320,10 +320,10 @@
   "portraitConsommation": [
     {
       "_comment": "PLANIFIÉE - Portrait de consommation non disponible",
-      "from": "2023-09-06 20:45:00",
-      "to": "2023-09-07 01:00:00",
-      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du mercredi 6&nbsp;septembre&nbsp;2023 à 20&nbsp;h&nbsp;45 au jeudi 7&nbsp;septembre&nbsp;2023 à 1&nbsp;h&nbsp;00.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, this customized online service will be unavailable from Wednesday, September&nbsp;6,&nbsp;2023, at 8:45&nbsp;p.m. to Thursday, September&nbsp;7,&nbsp;2023, at 1:00&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-06-05 20:30:00",
+      "to": "2024-06-05 22:00:00",
+      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible le mercredi 5&nbsp;juin&nbsp;2024 de 20&nbsp;h&nbsp;30 à 22&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, this customized online service will be unavailable on Wednesday, June&nbsp;5,&nbsp;2024, from 8:30&nbsp;p.m. to 22&nbsp;p.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - Portrait de consommation non disponible",
@@ -336,10 +336,10 @@
   "creditPointeCritique": [
     {
       "_comment": "PLANIFIÉE - Crédit Point Critique non disponible",
-      "from": "2023-09-06 20:45:00",
-      "to": "2023-09-07 01:00:00",
-      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du mercredi 6&nbsp;septembre&nbsp;2023 à 20&nbsp;h&nbsp;45 au jeudi 7&nbsp;septembre&nbsp;2023 à 1&nbsp;h&nbsp;00.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, this customized online service will be unavailable from Wednesday, September&nbsp;6,&nbsp;2023, at 8:45&nbsp;p.m. to Thursday, September&nbsp;7,&nbsp;2023, at 1:00&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-06-05 20:30:00",
+      "to": "2024-06-05 22:00:00",
+      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible le mercredi 5&nbsp;juin&nbsp;2024 de 20&nbsp;h&nbsp;30 à 22&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, this customized online service will be unavailable on Wednesday, June&nbsp;5,&nbsp;2024, from 8:30&nbsp;p.m. to 22&nbsp;p.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - Crédit Point Critique non disponible",
@@ -352,10 +352,10 @@
   "comparerTarif": [
     {
       "_comment": "PLANIFIÉE - Comparer le tarif non disponible",
-      "from": "2023-09-06 20:45:00",
-      "to": "2023-09-07 01:00:00",
-      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, le libre-service de comparaison des tarifs ne sera pas accessible du mercredi 6&nbsp;septembre&nbsp;2023 à 20&nbsp;h&nbsp;45 au jeudi 7&nbsp;septembre&nbsp;2023 à 1&nbsp;h&nbsp;00.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, the Compare Rates self-service tool will be unavailable from Wednesday, September&nbsp;6,&nbsp;2023, at 8:45&nbsp;p.m. to Thursday, September&nbsp;7,&nbsp;2023, at 1:00&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2024-06-05 20:30:00",
+      "to": "2024-06-05 22:00:00",
+      "messages_fr": "<h1>Travaux de maintenance en cours</h1><p>En raison de travaux de maintenance, le libre-service de comparaison des tarifs ne sera pas accessible le mercredi 5&nbsp;juin&nbsp;2024 de 20&nbsp;h&nbsp;30 à 22&nbsp;h.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h1>Maintenance work currently underway</h1><p>Due to system enhancements, the Compare Rates self-service tool will be unavailable on Wednesday, June&nbsp;5,&nbsp;2024, from 8:30&nbsp;p.m. to 22&nbsp;p.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - Comparer le tarif non disponible",
