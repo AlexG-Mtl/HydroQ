@@ -240,10 +240,10 @@
     },
     {
       "_comment": "PLANIFIÉE - Services en ligne non disponibles - Implantation",
-      "from": "2024-06-19 23:00:00",
-      "to": "2024-06-20 02:00:00",
-      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du mercredi 19&nbsp;juin&nbsp;2024 à 23&nbsp;h au jeudi 20&nbsp;juin&nbsp;2024 à 2&nbsp;h&nbsp;00.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
-      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, this customized online service will be unavailable from Wednesday, June&nbsp;19,&nbsp;2024, at 11:00&nbsp;p.m. to Thursday, June&nbsp;20,&nbsp;2024, at 2:00&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
+      "from": "2023-12-12 21:30:00",
+      "to": "2023-12-13 01:30:00",
+      "messages_fr": "<h2>Travaux de maintenance en cours</h2><p>En raison de travaux de maintenance, ce service en ligne ne sera pas accessible du mardi 12&nbsp;décembre&nbsp;2023 à 21&nbsp;h&nbsp;30 au mercredi 13&nbsp;décembre&nbsp;2023 à 1&nbsp;h&nbsp;30.</p><p>Nous sommes désolés pour les inconvénients que cela pourrait occasionner. Merci de votre compréhension.</p>",
+      "messages_en": "<h2>Maintenance work currently underway</h2><p>Due to system enhancements, this customized online service will be unavailable from Tuesday, December&nbsp;12,&nbsp;2023, at 9:30&nbsp;p.m. to Wednesday, December&nbsp;13,&nbsp;2023, at 1:30&nbsp;a.m.</p><p>We apologize for any inconvenience and thank you for your understanding.</p>"
     },
     {
       "_comment": "NON PLANIFIÉE - Services en ligne non disponibles",
